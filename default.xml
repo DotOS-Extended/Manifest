@@ -21,6 +21,10 @@
    <remote  name="dot"
      fetch="https://github.com/DotOS"
      revision="dot-n" />
+	<!-- DotOS-Extended Projects -->
+   <remote  name="dotx"
+     fetch="https://github.com/DotOS-Extended"
+     revision="dot-n" />
   <!-- AOSP Projects -->
 
   <project path="build" name="android_build" remote="dot">
@@ -471,5 +475,6 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
   <include name="snippets/cm.xml" />
   <include name="snippets/dot.xml" />
+  <include name="snippets/dotx.xml" />
 
 </manifest>
