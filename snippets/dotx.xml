@@ -4,5 +4,6 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="dotx" />
   <project path="vendor/dot" name="android_vendor_dotx" remote="dotx" />
   <project path="frameworks/base" name="android_frameworks_base" remote="dotx" />
+  <project path="art" name="android_art" remote="dotx" />
   <!-- <project path="dot_scripts" name="dotx_scripts" remote="dot" /> -->
 </manifest>
