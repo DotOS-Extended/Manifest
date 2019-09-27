@@ -11,10 +11,9 @@ Then to sync up:
  Compilation Of Rom
  ----------------------------------
 
-From root directory of Project, perform following commands in terminal
 
 	. build/envsetup.sh
    
-    lunch dot_$codename
+    lunch dot_aio_otfp-userdebug
    
-	brunch $codename
+	brunch aio_otfp
