@@ -1,3 +1,7 @@
+ <p align="center">
+https://github.com/destroyer19991/Manifest/blob/dot-n/dot.png
+</p>
+ 
  > [Security Patch Implemented](https://source.android.com/security/bulletin/) : February 5, 2018 (2018-02-05)
 
 Getting Started
