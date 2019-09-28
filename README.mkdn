@@ -1,4 +1,4 @@
- > [Security Patch Implemented](https://source.android.com/security/bulletin/) : February 5, 2018 (2018-02-05)
+ > [Security Patch Implemented](https://source.android.com/security/bulletin/) : August 5, 2018 (2019-08-05)
 
 Getting Started
 ---------------
