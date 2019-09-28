@@ -2,7 +2,6 @@
 <manifest>
   <project path="bionic" name="android_bionic" remote="dot" />
   <project path="libcore" name="android_libcore" remote="dot" />
-  <project path="frameworks/av" name="android_frameworks_av" remote="dot" />
   <project path="frameworks/native" name="android_frameworks_native" remote="dot" />
   <project path="frameworks/support" name="android_frameworks_support" remote="dot" />
   <project path="packages/apps/DotExtras" name="android_packages_apps_DotExtras" remote="dot" />
@@ -30,7 +29,6 @@
 
   <!-- Build tools -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="dot"/>
-  <project path="external/skia" name="android_external_skia" remote="dot"/>
   <!-- <project path="art" name="android_art" remote="dot" /> -->
   <project path="system/core" name="android_system_core" remote="dot" />
   <project path="build/blueprint" name="android_build_blueprint" remote="dot" />

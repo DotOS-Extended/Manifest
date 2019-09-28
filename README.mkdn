@@ -1,10 +1,9 @@
 <p align="center">
-<img src="https://github.com/destroyer19991/Manifest/blob/dot-n/dot.png" >
+<img src="https://github.com/DotOS-Extended/Manifest/raw/dot-n/DotOS-extended-logo.png" >
 </p>
 
-  ----------------------------------
 
- > [Security Patch Implemented](https://source.android.com/security/bulletin/) : February 5, 2018 (2018-02-05)
+ > [Security Patch Implemented](https://source.android.com/security/bulletin/) : August 5, 2019 (2019-08-05)
 
 Getting Started
 ---------------
