@@ -5,5 +5,7 @@
   <project path="vendor/dot" name="android_vendor_dotx" remote="dotx" />
   <project path="frameworks/base" name="android_frameworks_base" remote="dotx" />
   <project path="art" name="android_art" remote="dotx" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="dotx" />
+  <project path="external/skia" name="android_external_skia" remote="dotx"/>
   <!-- <project path="dot_scripts" name="dotx_scripts" remote="dot" /> -->
 </manifest>
