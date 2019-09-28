@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/DotOS-Extended/Manifest/raw/dot-n/DotOS-extended-logo.png" >
+</p>
+
+
  > [Security Patch Implemented](https://source.android.com/security/bulletin/) : August 5, 2019 (2019-08-05)
 
 Getting Started
