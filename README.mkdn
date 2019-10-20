@@ -3,7 +3,7 @@
 </p>
 
 
- > [Security Patch Implemented](https://source.android.com/security/bulletin/) : August 5, 2019 (2019-08-05)
+ > [Security Patch Implemented](https://source.android.com/security/bulletin/) : October 5, 2019 (2019-10-05)
 
 Getting Started
 ---------------
